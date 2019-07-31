@@ -14,8 +14,6 @@ public class View {
 
 	//测试上传git
 
-
-
 	//窗口对象
 	private JFrame frame;
 	
