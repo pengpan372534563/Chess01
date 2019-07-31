@@ -11,6 +11,13 @@ import javax.swing.*;
  *
  */
 public class View {
+	/*
+	 *	测试git  文件共享
+	 */
+
+
+
+
 	//窗口对象
 	JFrame frame;
 	
