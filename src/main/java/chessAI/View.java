@@ -14,6 +14,8 @@ public class View {
 
 	//测试上传git
 
+	//测试成功了   先提交 在上传
+
 	//窗口对象
 	private JFrame frame;
 	
