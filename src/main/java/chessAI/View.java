@@ -11,21 +11,19 @@ import javax.swing.*;
  *
  */
 public class View {
-	/*
-	 *	测试git  文件共享
-	 */
 
+	//测试上传git
 
 
 
 	//窗口对象
-	JFrame frame;
+	private JFrame frame;
 	
 	//棋盘控制器对象
-	Chess chess = new Chess();
+	private Chess chess = new Chess();
 	
 	//棋盘面板对象
-	ChessPanel chessPanel;
+	private ChessPanel chessPanel;
 	
 	/**
 	 * 创建窗口
