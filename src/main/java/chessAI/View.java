@@ -15,6 +15,8 @@ public class View {
 	//测试上传git
 
 	//测试成功了   先提交 在上传
+	
+	//主要是为了测试下载  更新  每天早上先更新
 
 	//窗口对象
 	private JFrame frame;
